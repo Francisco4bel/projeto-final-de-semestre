@@ -1,0 +1,27 @@
+iframe {
+    padding: 25px;
+}
+
+#logo {
+    height: 200px;
+    width: 200px;
+}
+
+#lo {
+    display: flex;
+    align-items: center;
+}
+
+.bgc {
+    background-color: white;
+    border-radius: 3px;
+    color: black;
+    margin: 8px;
+    padding: 7px;
+}
+
+body {
+    background-color: #273B2D;
+    color: #20BA51;
+    font-family: Arial, Helvetica, sans-serif;
+}
